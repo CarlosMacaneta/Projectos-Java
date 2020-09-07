@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Teste2_browser.jnlp">
+  <information>
+    <title>Teste2</title>
+    <vendor>CarlosMacaneta</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Teste2.jar" size="49738" download="eager" />
+  </resources>
+  <applet-desc  width="0" height="0" main-class="views.MenuPrincipal"  name="Teste2" >
+  </applet-desc>
+  <update check="background"/>
+</jnlp>
