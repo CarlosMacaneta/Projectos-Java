@@ -1,0 +1,8 @@
+ANTES DE USAR O SISTEMA LEIA O MANUAL.
+
+REQUISITOS
+
+É recomendado executar o sistema usando a NetBeans IDE.
+Se não estiver usando a NetBeans IDE deverá importar as
+bibliotecas que encontram-se em SIGD/lib, para um bom
+funcionamento do sistema.
